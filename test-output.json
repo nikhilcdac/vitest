@@ -1,0 +1,236 @@
+{
+  "numTotalTestSuites": 12,
+  "numPassedTestSuites": 12,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 15,
+  "numPassedTests": 15,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "snapshot": {
+    "added": 0,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0,
+    "didUpdate": false
+  },
+  "startTime": 1744779571129,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["App Component"],
+          "fullName": "App Component renders Todo with form data after form submission",
+          "status": "passed",
+          "title": "renders Todo with form data after form submission",
+          "duration": 203.8453999999997,
+          "failureMessages": [],
+          "location": { "line": 7, "column": 3 },
+          "meta": {}
+        }
+      ],
+      "startTime": 1744779575500,
+      "endTime": 1744779575703.8455,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Intern/Desktop/my-vite-project/vitest/src/test/App.test.jsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Button Component"],
+          "fullName": "Button Component renders the button with the correct label",
+          "status": "passed",
+          "title": "renders the button with the correct label",
+          "duration": 23.76819999999998,
+          "failureMessages": [],
+          "location": { "line": 10, "column": 3 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Button Component"],
+          "fullName": "Button Component triggers onClick when clicked",
+          "status": "passed",
+          "title": "triggers onClick when clicked",
+          "duration": 8.514700000000175,
+          "failureMessages": [],
+          "location": { "line": 16, "column": 3 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Button Component"],
+          "fullName": "Button Component sets the correct button type",
+          "status": "passed",
+          "title": "sets the correct button type",
+          "duration": 3.272400000000289,
+          "failureMessages": [],
+          "location": { "line": 24, "column": 3 },
+          "meta": {}
+        }
+      ],
+      "startTime": 1744779575475,
+      "endTime": 1744779575511.2725,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Intern/Desktop/my-vite-project/vitest/src/test/Button.test.jsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Card Component"],
+          "fullName": "Card Component renders the Card component with all elements",
+          "status": "passed",
+          "title": "renders the Card component with all elements",
+          "duration": 133.7837999999997,
+          "failureMessages": [],
+          "location": { "line": 6, "column": 3 },
+          "meta": {}
+        }
+      ],
+      "startTime": 1744779575470,
+      "endTime": 1744779575603.7837,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Intern/Desktop/my-vite-project/vitest/src/test/Card.test.jsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["FetchData Component"],
+          "fullName": "FetchData Component renders loading text initially",
+          "status": "passed",
+          "title": "renders loading text initially",
+          "duration": 29.747100000000046,
+          "failureMessages": [],
+          "location": { "line": 11, "column": 5 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["FetchData Component"],
+          "fullName": "FetchData Component renders fetched data after successful API call",
+          "status": "passed",
+          "title": "renders fetched data after successful API call",
+          "duration": 32.45040000000017,
+          "failureMessages": [],
+          "location": { "line": 17, "column": 5 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["FetchData Component"],
+          "fullName": "FetchData Component handles API errors gracefully",
+          "status": "passed",
+          "title": "handles API errors gracefully",
+          "duration": 12.795599999999922,
+          "failureMessages": [],
+          "location": { "line": 56, "column": 5 },
+          "meta": {}
+        }
+      ],
+      "startTime": 1744779575461,
+      "endTime": 1744779575535.7957,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Intern/Desktop/my-vite-project/vitest/src/test/FetchData.test.jsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Form Component"],
+          "fullName": "Form Component renders the form with ID, Title, and Completed fields",
+          "status": "passed",
+          "title": "renders the form with ID, Title, and Completed fields",
+          "duration": 110.98830000000044,
+          "failureMessages": [],
+          "location": { "line": 18, "column": 5 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Form Component"],
+          "fullName": "Form Component displays an alert when required fields are missing",
+          "status": "passed",
+          "title": "displays an alert when required fields are missing",
+          "duration": 23.967099999999846,
+          "failureMessages": [],
+          "location": { "line": 28, "column": 5 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Form Component"],
+          "fullName": "Form Component submits the form with correct data",
+          "status": "passed",
+          "title": "submits the form with correct data",
+          "duration": 25.870100000000093,
+          "failureMessages": [],
+          "location": { "line": 40, "column": 5 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Form Component"],
+          "fullName": "Form Component resets the form after submission",
+          "status": "passed",
+          "title": "resets the form after submission",
+          "duration": 14.196200000000317,
+          "failureMessages": [],
+          "location": { "line": 67, "column": 5 },
+          "meta": {}
+        }
+      ],
+      "startTime": 1744779575467,
+      "endTime": 1744779575642.1963,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Intern/Desktop/my-vite-project/vitest/src/test/Form.test.jsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Navbar Component"],
+          "fullName": "Navbar Component renders the logo correctly",
+          "status": "passed",
+          "title": "renders the logo correctly",
+          "duration": 27.58789999999999,
+          "failureMessages": [],
+          "location": { "line": 6, "column": 5 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Navbar Component"],
+          "fullName": "Navbar Component renders all navigation links",
+          "status": "passed",
+          "title": "renders all navigation links",
+          "duration": 56.953899999999976,
+          "failureMessages": [],
+          "location": { "line": 12, "column": 5 },
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Navbar Component"],
+          "fullName": "Navbar Component applies the correct styles",
+          "status": "passed",
+          "title": "applies the correct styles",
+          "duration": 15.588799999999992,
+          "failureMessages": [],
+          "location": { "line": 30, "column": 5 },
+          "meta": {}
+        }
+      ],
+      "startTime": 1744779575475,
+      "endTime": 1744779575575.5889,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Intern/Desktop/my-vite-project/vitest/src/test/Navbar.test.jsx"
+    }
+  ]
+}
+             

@@ -1,0 +1,231 @@
+[
+    {
+      "id": 1,
+      "title": "Frequently Asked Questions (FAQ) on the Export Control of Nuclear Related Items",
+      "content": [
+        {
+          "question": " Why Control is required for the export of Nuclear related items?",
+          "answer": [
+            "Export Control is one of the important pillars of Non-Proliferation and Nuclear Security. Robust export control serves either as a deterrent and/or delays the efforts of the proliferators to acquire Weapons of Mass Destruction (WMD) items or related technologies. This ensures that legitimate trade in strategic goods, dual-use goods, services, and technology continue to grow. The illegitimate trade is controlled to eliminate any possibility of such items falling into the hands of terrorists and other non-state actors with wrong intentions."
+          ],
+          "toggle": true
+        },
+        {
+          "question": "Does India regulate the export of strategic goods, dual-use goods, services, and technology?",
+          "answer": [
+            "Yes, the Export of items in India's Control List called SCOMET list (Special Chemicals, Organisms, Materials, Equipment, and Technologies) is regulated as per India's Foreign Trade Policy. Central Government, in the exercise of powers conferred under Section 5 of the FT (D&R) Act, 1992 (No. 22 of 1992), as amended notifies Foreign Trade Policy (FTP), from time to time, Customs Act 1962, CWC Act 2000, Atomic Energy Act 1962. Export of items in this list is either prohibited or is permitted under an export authorization from various designated licensing authorities notified by GOI.",
+            "What is the SCOMET list and where can I find it?",
+            "SCOMET is India's Control list which is an acronym for Special Chemicals, Organisms, Materials, Equipment, and Technologies. Export of items and technologies under SCOMET are regulated. It is either prohibited or is permitted under an Authorisation from Licensing authority. Appendix 3 of Schedule 2 of ITC (HS) Classification contains the SCOMET list. You can visit the DGFT website to see the complete list (www.dgft.gov.in).",
+            "Limiting liability of the operator in amount and time",
+            "Mandatory coverage by the operator through financial security or insurance"
+          ],
+          "toggle": false
+        },
+        {
+          "question": " How is the regulation of export control for nuclear-related items done?",
+          "answer": [
+            "Section 14, of the Atomic Energy Act 1962, controls the export and import of prescribed substances, prescribed equipment, and any mineral or substance from which prescribed substance can be obtained, through a license. The list of prescribed substances, prescribed equipment, and other nuclear-related items is notified as '0' Category in SCOMET List by DGFT. If the prescribed substances are also radioactive, then it shall additionally attract the provisions of Rule 3 of Atomic Energy (Radiation Protection) Rules, 2004, as promulgated under the Atomic Energy Act 1962.",
+            "What is the SCOMET list and where can I find it?",
+            "SCOMET is India's Control list which is an acronym for Special Chemicals, Organisms, Materials, Equipment, and Technologies. Export of items and technologies under SCOMET are regulated. It is either prohibited or is permitted under an Authorisation from Licensing authority. Appendix 3 of Schedule 2 of ITC (HS) Classification contains the SCOMET list. You can visit the DGFT website to see the complete list (www.dgft.gov.in).",
+            "Limiting liability of the operator in amount and time",
+            "Mandatory coverage by the operator through financial security or insurance"
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "Who gives license for Category 0 items in the SCOMET list?",
+          "answer": [
+            "Licensing authority for items in Category 0 in Appendix 3, to Schedule 2 of ITC (HS) is the Department of Atomic Energy. Applicable guidelines are notified by the Department of Atomic Energy under Atomic Energy Act, 1962. For certain items in Category 0, formal assurances from the recipient State will include non-use in any nuclear explosive device. Authorizations for the export of certain items in Category 0 will not be granted unless the transfer is additionally under adequate physical protection and is covered by appropriate International Atomic Energy Agency (IAEA) safeguards, or any other mutually agreed on controls on transferred items.",
+            "Export of items specified under the Note 2 of the 'Commodity Identification Note' of the SCOMET list would be permitted only against an authorization granted by the Department of Atomic Energy.",
+            "If the prescribed substances are also radioactive in nature, then a No Objection Certificate (NOC) from radiation safety considerations is to be obtained from the Atomic Energy Regulatory Board (AERB), which is a prerequisite for the grant of an export license from the Department of Atomic Energy. For obtaining NOC from AERB, an application shall be submitted through AERB's eLicensing of Radiation Application (e-LORA) portal.",
+            "Mandatory coverage by the operator through financial security or insurance"
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "What are the categories for Nuclear Related items in the SCOMET list?",
+          "answer": [
+            "The items that are specially designed prepared or adopted for nuclear use are covered under the “0” category as Prescribed substances (which includes Source Material, Special fissionable material, and other material), prescribed equipment, technology, and Software. Dual-use goods for the nuclear industry are covered under categories 3 and 4 and a few dual-use nuclear-related items are covered under category 8."
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "What are dual-use goods and technologies?",
+          "answer": [
+            "Dual-use items are goods, software, technology, chemicals, etc. which can be used for nuclear fuel cycle or nuclear explosive activity but have non-nuclear uses as well. Such items also require authorization for exporting out of the country. For example, the export of nuclear-related dual-use items and technologies implies that these items can make a major contribution to an unsafeguarded nuclear fuel cycle or nuclear explosive activity, but can have non-nuclear uses as well, in industry."
+          ],
+          "toggle": false
+        },
+        {
+          "question": " How do I apply for authorization to export SCOMET items?",
+          "answer": [
+            "Application for grant of Export Authorisation for 0 category has to be made to DAE with submission of Form A prescribed in “The Atomic Energy (Working of the mines, minerals and Handling of Prescribed Substances) Rules, 1984 and other specified documents (see S. No 10). Licensing authority for export authorization in respect of other categories is listed in the table in S.No. 4."
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "What are the documents to be submitted for the application for export Authorization?",
+          "answer": [
+            "The following documents need to be uploaded online while making the application.",
+            "i) End Use-cum-End User Certificate(s)(EUC) from all the firms/entities involved in the supply chain of the product(s) (to be furnished on their letterhead duly ink signed and stamped by the authorized signatory)",
+            "ii)Copy(ies) of Purchase Order(s) of the firm(s) involved in the supply chain of the item/product",
+            "iii)In case of no Purchase Order, a copy of the contract agreement may be provided",
+            "iv)Profile of Exporter"
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "Is there a validity period for the license? Can it be extended?",
+          "answer": [
+            "Yes, a SCOMET license is valid for a period of 24 months. It can be extended for six months at a time and a maximum of up to 12 months through revalidation by a designated licensing authority.",
+            "What is the SCOMET list and where can I find it?",
+            "SCOMET is India's Control list which is an acronym for Special Chemicals, Organisms, Materials, Equipment, and Technologies. Export of items and technologies under SCOMET are regulated. It is either prohibited or is permitted under an Authorisation from Licensing authority. Appendix 3 of Schedule 2 of ITC (HS) Classification contains the SCOMET list. You can visit the DGFT website to see the complete list (www.dgft.gov.in).",
+            "Limiting liability of the operator in amount and time",
+            "Mandatory coverage by the operator through financial security or insurance"
+          ],
+          "toggle": false
+        },
+        {
+          "question": "How will the industry benefit from the adoption of these export control regulations?",
+          "answer": [
+            "Government and industry have a responsibility to ensure that Indian exports are not accessed by proliferators, terrorist groups, and non-state actors. Any export that inadvertently lands up in the wrong hands may have implications for our national security and affect Brand India. These regulations are an important step to address such concerns. Further, global supply chains are increasingly interconnected. India's trading partners would like to be assured that India's regulations are in line with the highest standards. Adoption of these regulations is expected to act as an enabler for a greater role for Indian industry in global supply chains for high technology and value-added items and strategic sector items.."
+          ],
+          "toggle": false
+        },
+        {
+          "question": "Does SCOMET List reviewed and updated regularly?",
+          "answer": [
+            "DGFT amends the SCOMET list from time to time in consultation with various stakeholders and Inter-Ministerial Working Group (IMWG) members to implement India's international commitments and obligations in the field of nonproliferation while simultaneously ensuring that trade facilitation is accorded the highest priority.",
+            "Review and updating of SCOMET is also a part of India's continuing obligations and commitment to various international Multilateral Export Control regimes (MECR)."
+          ],
+          "toggle": false
+        },
+        {
+          "question": "What is IMWG and who are members of IMWG?",
+          "answer": [
+            "IMWG is an Inter-Ministerial Working Group that includes members from the Ministry of External Affairs (MEA), Department of Defence Production (DDP), Department of Space (through ISRO), Defence Research and Development Organization (DRDO), Department of Atomic Energy (DAE), Department of Chemicals and Petrochemicals, National Authority of Chemical Weapon Convention (NACWC) and Cabinet Secretariat.",
+            "The IMWG meets every month, under the Chairmanship of the Additional DGFT (in-charge of export), to decide on the applications on case to case basis as per the guidelines and criteria laid down in Para 2.74 of the Hand Book of Procedures which is available on the website of DGFT (www.dgft.gov.in) at weblink",
+            "The IMWG decides, by consensus, on whether to approve an export authorization. Pre-license checks are conducted through the agencies and India's missions abroad. Post-shipment verifications are made part of licensing conditions."
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "Are export of Nuclear related items also consulted in IMWG?",
+          "answer": [
+            "For the '0' category, DAE has complete jurisdiction and the export cases are not discussed in IMWG. However, nuclear-related items covered under Category 3, 4 & 8 of the SCOMET List are consulted in IMWG on a case to case basis, by DGFT."
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "What are the criteria for analyzing applications by various licensing authorities and IMWG?",
+          "answer": [
+            "EUC has a prescribed proforma, in which the end-user should certify that:",
+            "i)  The item will be used only for the stated purpose and that such use will not be changed, nor items modified or replicated without the consent of the Government of India;",
+            "ii)Neither the items nor replicas nor derivatives thereof will be re-transferred without consent of the Government of India;",
+            "iii)End user also certifies that the items shall not be used to develop, acquire, manufacture, possess, transport, transfer or use, chemical, biological, nuclear weapons, or missiles capable of delivering such systems.",
+            "iv) End-user shall facilitate such verifications as are required by the Government of India.",
+            "The end-user certificate shall indicate the name of the item to be exported from India, the name of the importer in the destination country, the specific end-use of the subject goods, and details of the Purchase Order/Contract.The government of India may also require additional formal assurances, as deemed appropriate, including those on end-use and non-retransfer, from the State of the recipient.For certain items in Category 0, formal assurances from the recipient State will include non-use in any nuclear explosive device. Authorizations for export of certain items in Category 0 will not be granted unless the transfer is additionally under adequate physical protection and is covered by appropriate International Atomic Energy Agency (IAEA) safeguards, or any other mutually agreed on controls on transferred items."
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "What is MECR?",
+          "answer": [
+            "There are various multilateral export controls regimes (MECR), viz. Nuclear Supplier Group (NSG), Wassenaar Arrangement (WA), Australia Group (AG), and Missile Technology Control Regime (MTCR). MECRs are state groups that are independent of the United Nations and that these state groups may judiciously use to organize their export control programs. Their regulations apply only to its members and it is not obligatory for other states to join. The main aim of these control regimes is to promote non-proliferation and implement effective control mechanisms to ensure that legitimate trade in the strategic goods, dual-use goods, services, and technology continue to grow to strengthen the state's economy and support industries, but also to control the illegitimate trade to eliminate any possibility of such items falling in the hands of terrorist and other non-state actors with malicious intentions.",
+            "The purpose of export control is not to deny the transfer of every conventional or nuclear weapon-related commodity or technology, but to ascertain that the ultimate end-use is for only peaceful purposes."
+          ],
+          "toggle": false
+        },
+  
+        {
+          "question": "Is India a member of MECR?",
+          "answer": [
+            "India became a member of the MTCR on 12 Dec 2018, AG on 19 Jan 2018, and WA on 08 Dec 2017, and has completely harmonized its Control list with NSG in May 2016 and is adherent to the Nuclear Suppliers Group (NSG) Guidelines since then. Importantly, a significant number of changes to SCOMET have been carried out to adopt the regulations and lists of these control Regimes."
+          ],
+          "toggle": false
+        }
+        ,
+        {
+          "question": "How does India's Nuclear export control Conform to NSG?",
+          "answer": [
+            "India officially applied for NSG membership in May 2016 after completely harmonizing its Control list with NSG guidelines. India, from time to time, updates its Control list in accordance with any update in NSG guidelines (Part 1 and Part 2). India has also developed and implemented Nuclear Transfer Guidelines for exports related to nuclear material, equipment, and Technology including software in accordance with NSG Guidelines."
+          ],
+          "toggle": false
+        },
+        {
+          "question": "In the case of offenses by a company, who is liable?",
+          "answer": [
+            "Sections 14 to 22 WMD Act, 2005 have provisions for penalties and offenses, Punishment for aiding non-state actors or terrorists, Punishment for unauthorized export, Punishment for violation of other provisions of the act, Penalty for using false or making forged documents, and Punishment for offenses concerning which no provision has been made."
+          ],
+          "toggle": false
+        },
+        {
+          "question": "In the case of offenses by a company, who is liable?",
+          "answer": [
+            "Section 25 of the Atomic Energy Act 1962, and Section 20 of the WMD Act, 2005 provide for an offense that has been committed by a company, every person who at the time the offense was committed was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the offense and shall be liable to be proceeded against and punished accordingly."
+          ],
+          "toggle": false
+        },
+        {
+          "question": "What are catch-all controls?",
+          "answer": [
+            "Section 14C of the FTDR Act, 1992 as amended deal with Catch-all controls. This section provides that no person shall export any material, equipment, or technology knowing that such material, equipment, or technology is intended to be used in the design or manufacture of a biological weapon, chemical weapon, nuclear weapon, or other nuclear explosive devices, or their missile delivery systems.",
+            "Para 2.72(b) of the Handbook of Procedures, as amended provides that export can be regulated “If the exporter has been notified in writing by DGFT or he knows or has reason to believe that an item not covered in the SCOMET list has a potential risk of use in or diversion to weapons of mass destruction (WMD) or in their missile system or military end-use (including by terrorists and non-state actors), the export of such an item may be denied or permitted subject to the grant of a license, as per the procedure provided for SCOMET items in Paragraph 2.73."
+          ],
+          "toggle": false
+        },
+        {
+          "question": "Is there a prohibition on the transfer of Technology related to SCOMET items?",
+          "answer": [
+            "Section 13(2) and 13(3) of the WMD Act, 2005 provide restrictions on the transfer of technology. Section 13(2) clarifies that any transfer of technology of an item whose export is prohibited under this Act or any other relevant Act relating to a relevant activity shall be prohibited. Section 13(3) specifies that when any technology is notified under this Act or any other relevant Act, as being subject to transfer controls, the transfer of such technology shall be restricted to the extent notified thereunder. Transfer of technology may take place through either or both of the following modes of transfer, namely: ",
+            "i)by a person or from a place within India to a person or place outside India;",
+            "ii) by a person or from a place outside India to a person, or a place, which is also outside India (but only where the transfer is by, or within the control of, person, who is a citizen of India, or any person who is a resident in India)."
+          ],
+          "toggle": false
+        },{
+          "question": "What are the restrictions on the transfer of technology to foreign nationals?",
+          "answer": [
+            "Transfer of any controlled technology is not allowed:",
+            "i)by a person or from a place within India to a person or place outside India;",
+            "ii) by a person or from a place outside India to a person, or a place, which is also outside India. (But only where the transfer is by, or within the control of, a person, who is a citizen of India, or any person who is a resident in India).",
+            "Hence, the transfer of controlled technology to foreign nationals is barred by any person who is a citizen of India, or any person who is a resident in India even if it happens outside India."
+          ],
+          "toggle": false
+        }
+        ,{
+          "question": "How Industry can contribute to strengthening the Export Control Regime of India?",
+          "answer": [
+            "Licensing authority and Industry have distinct responsibilities for mutual reinforcement of actions:",
+            "i)The Role of licensing authority is to develop policies and mechanisms to regulate and control trade with deterrence to proliferation efforts;",
+            "ii)The role of the industry is to develop internal compliance systems to ensure strict adherence to governments' policies and regulations;",
+            "iii)The need for Industry is to understand their responsibilities and work together with licensing authority with mutual coordination.",
+            "iv)Complete record of all the exports",
+            "v)Previous Record of Business with the End User"
+          ],
+          "toggle": false
+        },
+        {
+          "question": "What is an ICS and how Industry can develop and maintain it?",
+          "answer": [
+            "ICS is an Internal Compliance System of any industry which has standardized procedures to check the credentials of the end-user with whom the industry is doing business. An ICS of Industry should be developed on the following measures:",
+            "i) Compliance with regulatory guidelines",
+            "ii) Screening of End User and stated end-use",
+            "iii)Mode of Financial Transactions",
+            "iv)Complete record of all the exports",
+            "v)Previous Record of Business with the End User"
+          ],
+          "toggle": false
+        }
+  
+      ]
+    }
+  ]
+  
